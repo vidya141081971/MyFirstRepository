@@ -1,10 +1,12 @@
 hello Git ...welcome!!
 
--->change1 
+-->change 1 
 
--->change2
+-->change 2
 
 
 
 -->change3  changed...
+
+-->chaange 4
 
